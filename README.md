@@ -7,6 +7,8 @@
 This is a bot which will sends you infos about hackathons taking place all around the place at the time you selected : it works on privacy-focused messaging service Telegram
 </p>
 
+---
+
 ## Technologies used
 
 * The public Hackalist API available <a href="https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0">here</a>
