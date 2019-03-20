@@ -17,7 +17,7 @@ Actually, it's better shown than told so here is an example of how you can use t
 /month 04
 ```
 
-<img src="https://i.ibb.co/4RrQrLc/demoBot.png" alt="demoBot" border="0">
+<img src="https://i.ibb.co/gw9nTZL/demoBot.png" alt="demoBot" border="0">
 
 ## Technologies used
 
