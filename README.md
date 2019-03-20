@@ -9,6 +9,16 @@ This is a bot which will sends you infos about hackathons taking place all aroun
 
 ---
 
+## How does it work ?
+
+Actually, it's better shown than told so here is an example of how you can use the bot :
+
+```
+/month 04
+```
+
+<img src="https://i.ibb.co/4RrQrLc/demoBot.png" alt="demoBot" border="0">
+
 ## Technologies used
 
 * The public Hackalist API available <a href="https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0">here</a>
