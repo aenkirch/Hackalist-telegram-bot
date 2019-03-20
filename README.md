@@ -35,3 +35,7 @@ Actually, it's better shown than told so here is an example of how you can use t
 ## Credits
 
 Thanks to all the guys behind the <a target="_blank" href="https://github.com/Hackalist" rel="noopener noreferrer">Hackalist</a> project for their great idea !
+
+## License
+
+This project is licensed under the terms of the MIT license.
