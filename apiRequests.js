@@ -4,6 +4,7 @@ const baseUrl = 'https://raw.githubusercontent.com/Hackalist/Hackalist.github.io
 normalizeMonthNumber = (x) => {
     if (x < 10)
         return x.replace('0', '');
+    return x;
 }
 
 module.exports = {
